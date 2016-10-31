@@ -1,0 +1,102 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="aegeanapp.Ebdomada4_Mesimeri"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    <ScrollViewer HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF295F1D">
+        <TextBlock TextWrapping="Wrap">
+    		<Run FontWeight="Bold" Text="Δευτέρα"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα αλενουά - Τονοσαλάτα"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Ψάρι αλα σπετσιώτα - Μακαρόνια με μπαλάκια κιμά κοκκινιστά, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Τρίτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κρέμα αγκινάρες - Μελιτζανόπιτα"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Κοτόπουλο δεντρολίβανο με πατάτες φούρνου, τυρί φέτα - Χοιρνό ψητό με πιλάφι"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Τετάρτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κρέμα μπρόκολο - Μακεδονίτικη πρασοκιμαδότπιτα"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Φασόλια σούπα, τυρί φέτα - Αγκινάρες βινεγκρέτ, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Πέμπτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα σαμπενουά - Burritos με ομελέτα"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Χοιρινά φιλετάκια με μουστάρδα και πατάτες φούρνου - Γαλοπούλα με χυλοπίτες, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Παρασκευή"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα ντύπαρύ - Τορτίγιες με λιωμένο τυρι και κιμά"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Φάβα Μυτιλήνης - Σουφλέ ζυμαρικών"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Σάββατο "/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα λουγκσόν - Πίτα Σικελίας"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Μοσχάρι σουφλέ με κρητικό γαμοπίλαφο - Κοτόπουλο ψητό με πατάτες τηγανητές, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+    		<LineBreak/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Κυριακή"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Κοτόσουπα αυγολέμονο - Σαλάτα Βουδαπέστης"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Χοιρινό σνιτσελ με ριζότο  - Μοσχάρι φαντασία με ζυμαρικά"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Φρούτο εποχής - Γλυκό"/>
+        </TextBlock>
+    </ScrollViewer>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+
+</phone:PhoneApplicationPage>

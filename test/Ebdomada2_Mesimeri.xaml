@@ -1,0 +1,103 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="aegeanapp.Ebdomada2_Mesimeri"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    <ScrollViewer HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF295F1D">
+        <TextBlock TextWrapping="Wrap">
+    		<Run FontWeight="Bold" Text="Δευτέρα"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κρέσυ - Κοζανίτικο κτχι με φέτα και πράσο"/>    
+    		<LineBreak/>
+    		<Run Text="2ο.Φιλέτα γαλέου, πουρές πατάτας - Παστίτσιο"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Τρίτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κάρδαμο - Τονοσαλάτα"/>
+    		<LineBreak/>
+    		<Run Text="2ο. Κοτόπουλο ψητό ,ε ζυμαρικά, τυρί φέτα - Χοιρινό λεμονάτο στο φούρνο με πατάτες"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Τετάρτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα αλενουά - Λαχανοντολμάδες αυγολέμονο"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Φασόλια φούρνου, τυρί φέτα - Μπάμιες, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Πέμπτη"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κρέμα αγκινάρας - Ντολμαδάκια αυγολέμονο"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Κοτόπουλο Σαιν Ζερμέν με πιλάφι, τυρί φέτα - Χοιρινό κρασάτο με ρύζι"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Παρασκευή"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα κρέμας μπρόκολο - Σουπιές σπανάκι"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Ρεβίθια φούρνου, τυρί φέτα - Σπαγγέτι καρμπονάρα, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Σάββατο "/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα σαμπενουά - Εντσιλάδας με λουκάνικο"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Μοσχάρι Κελαηδί λάρισας, σουφλέ ζυμαρικών - Κοτόπουλο Μιλανέζε, σουφλέ λαχανικών, τυρί φέτα"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+    		<LineBreak/>
+    		<Run/>
+    		<LineBreak/>
+    		<Run FontWeight="Bold" Text="Κυριακή"/>
+    		<LineBreak/>
+    		<Run Text="1ο.Σούπα ντυπαρύ - Burittos με ομελέτα ( ελληνικός τρόπος)"/>
+    		<LineBreak/>
+    		<Run Text="2ο.Αρνί γιουβέτσι - Μοσχάρι φαντασία με ραβιόλια"/>
+    		<LineBreak/>
+    		<Run Text="3ο.Σαλάτα εποχής ωμή - Σαλάτα εποχής βραστή"/>
+    		<LineBreak/>
+    		<Run Text="4ο.Γλυκό - Φρούτο εποχής"/>
+        </TextBlock>
+    </ScrollViewer>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+
+</phone:PhoneApplicationPage>
