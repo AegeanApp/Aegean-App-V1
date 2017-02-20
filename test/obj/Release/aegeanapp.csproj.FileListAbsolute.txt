@@ -431,3 +431,4 @@ C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\tes
 C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\ProjectArchitectures.txt
 C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\MDILProjectFiles.xml
 C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\XapCacheFile.xml
+C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\aegeanapp.csprojResolveAssemblyReference.cache

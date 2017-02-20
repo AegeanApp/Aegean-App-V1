@@ -50,7 +50,7 @@ namespace aegeanapp
 
         private void OPENeCLASS(object sender, RoutedEventArgs e)
         {
-            ShowInBrowser("https://eclass.aegean.gr/");
+            ShowInBrowser("http://cms.math.aegean.gr/");
 
             //URLs.url = "https://eclass.aegean.gr/";
             //NavigationService.Navigate(new Uri("/WebView_Page.xaml", UriKind.Relative));

@@ -12,6 +12,12 @@ namespace aegeanapp
 {
     public partial class Sittisi_MainPage : PhoneApplicationPage
     {
+        private void ShowInBrowser(string url)
+        {
+            Microsoft.Phone.Tasks.WebBrowserTask wbt = new Microsoft.Phone.Tasks.WebBrowserTask();
+            wbt.Uri = new Uri(url);
+            wbt.Show();
+        }
 
         public Sittisi_MainPage()
         {
@@ -109,6 +115,14 @@ namespace aegeanapp
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.GoBack();
+        }
+        private void foodVisitHistory_Click(object sender, RoutedEventArgs e)
+        {
+            ShowInBrowser("https://studies.aegean.gr/node/216");
+        }
+        private void freeFoodCheck_Click(object sender, RoutedEventArgs e)
+        {
+            ShowInBrowser("https://studies.aegean.gr/node/17");
         }
     }
 }
