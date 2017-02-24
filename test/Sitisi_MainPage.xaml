@@ -45,9 +45,9 @@
                 <RowDefinition Height="40.768"/>
                 <RowDefinition Height="331.232"/>
             </Grid.RowDefinitions>
-            <toolkit:ListPicker x:Name="Listpickername" Margin="10,14.232,240,172" ExpansionMode="ExpansionAllowed" Foreground="Black" BorderBrush="Black" Opacity="1" Grid.Row="2"/>
+            <toolkit:ListPicker x:Name="Listpickername" Margin="10,14.232,240,79" ExpansionMode="ExpansionAllowed" Foreground="Black" BorderBrush="Black" Opacity="1" Grid.Row="2"/>
             <Button x:Name="OK_Button" Content="OK" HorizontalAlignment="Left" Margin="182,259.232,0,0" VerticalAlignment="Top" Tap="OK_Button_Tap" RenderTransformOrigin="0.508,0.488" Foreground="Black" BorderBrush="Black" Grid.Row="2" Height="72" Width="81"/>
-            <toolkit:ListPicker x:Name="Listpickername2" Margin="240,14.232,10,172" ExpansionMode="ExpansionAllowed" BorderBrush="Black" Foreground="Black" Grid.Row="2"/>
+            <toolkit:ListPicker x:Name="Listpickername2" Margin="240,14.232,10,127" ExpansionMode="ExpansionAllowed" BorderBrush="Black" Foreground="Black" Grid.Row="2"/>
             <Button Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-2.577,0.147" Click="Button_Click" Foreground="Black" BorderBrush="Black" FontWeight="Bold" Height="72" Width="101" />
             <Grid HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Grid.RowSpan="2"/>
             <HyperlinkButton Content="Έλεγχος δωρεάν σίτισης" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.RowSpan="2" Foreground="Black" FontWeight="Bold" Click="freeFoodCheck_Click" Height="31" Margin="0,0,0,331" Grid.Row="1" Width="289"/>

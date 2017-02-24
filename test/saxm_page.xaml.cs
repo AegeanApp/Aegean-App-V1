@@ -1,7 +1,7 @@
-﻿using System;
+﻿using Microsoft.Phone.Controls;
+using System;
 using System.Windows;
 using System.Windows.Navigation;
-using Microsoft.Phone.Controls;
 
 
 namespace aegeanapp
@@ -85,7 +85,7 @@ namespace aegeanapp
         private void schedule_icsd_Click(object sender, RoutedEventArgs e)
         {
             //LaunchPDF();
-            ShowInBrowser("http://www.actuar.aegean.gr/orologio_programma.pdf");
+            ShowInBrowser("http://www.math.aegean.gr/images/articles/announcements/2016-2017/undergraduate%20scedule_spring%20semester_2016-2017.pdf");
         }
 
         private void TextBlock_Tap(object sender, System.Windows.Input.GestureEventArgs e)

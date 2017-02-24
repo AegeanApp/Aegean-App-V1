@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Bin\Release\aegeanapp1.2_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="20/2/2017 10:10:31 μμ">
+﻿<xapCache source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Bin\Release\aegeanapp1.2_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="24/2/2017 8:31:49 μμ">
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="20/2/2017 10:10:30 μμ" />
-  <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\aegeanapp.dll" archivePath="aegeanapp.dll" lastWriteTime="20/2/2017 10:10:30 μμ" />
+  <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\aegeanapp.dll" archivePath="aegeanapp.dll" lastWriteTime="24/2/2017 8:31:47 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Assets\AppBar1\feature.email.png" archivePath="Assets\AppBar1\feature.email.png" lastWriteTime="1/1/2013 6:57:00 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Assets\AppBar2\questionmark.png" archivePath="Assets\AppBar2\questionmark.png" lastWriteTime="1/1/2013 6:57:00 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Assets\AppBar\favs.png" archivePath="Assets\AppBar\favs.png" lastWriteTime="1/1/2013 6:57:00 μμ" />
@@ -48,6 +48,6 @@
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\packages\WPToolkitTestFx.4.2012.11.14\lib\wp8\Microsoft.Phone.Toolkit.Testing.dll" archivePath="Microsoft.Phone.Toolkit.Testing.dll" lastWriteTime="18/10/2015 6:24:12 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\packages\WPToolkitTestFx.4.2012.11.14\lib\wp8\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll" archivePath="Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll" lastWriteTime="18/10/2015 6:24:12 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="31/10/2016 10:15:00 μμ" />
-  <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="20/2/2017 10:10:31 μμ" />
+  <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="24/2/2017 8:31:48 μμ" />
   <file source="C:\Users\George Makrakis\Documents\Visual Studio 2015\Projects\test_solution\test\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="20/2/2017 10:10:30 μμ" />
 </xapCache>

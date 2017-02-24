@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
-using Microsoft.Phone.Shell;
 
 using Microsoft.Phone.Maps.Controls;
 using System.Device.Location; // Provides the GeoCoordinate class.
 using Windows.Devices.Geolocation;//Provides the Geocoordinate class.
-using Windows.UI.Popups;
-using Windows.Storage.Streams;
 
 using System.Windows.Media;
 using System.Windows.Shapes;

@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 using System.Windows;
-using System.Windows.Controls;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
-using Microsoft.Phone.Shell;
 
 namespace aegeanapp
 {
@@ -88,7 +83,7 @@ namespace aegeanapp
         private void schedule_icsd_Click(object sender, RoutedEventArgs e)
         {
             //LaunchPDF();
-            ShowInBrowser("http://www.icsd.aegean.gr/website_files/grammateia_files/announcements/339224911.pdf");
+            ShowInBrowser("http://samosweb.aegean.gr/math/mathweb/images/articles/announcements/2016-2017/%CE%A9%CE%A1%CE%9F%CE%9B%CE%9F%CE%93%CE%99%CE%9F%20%CE%A0%CE%A1%CE%9F%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%91%20E16-17_version_02.pdf");
         }
 
         private void TextBlock_Tap(object sender, System.Windows.Input.GestureEventArgs e)/// main page math
